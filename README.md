@@ -1,9 +1,6 @@
-
-# 💫 About Me:
-
 ## Hello there 👋
 
-I am computer engineering student, welcome to my github page :)<br>
+I am Juan and I'm computer engineering student, welcome to my github page :)<br>
 
 
 ## 🌐 Socials:
