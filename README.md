@@ -1,6 +1,6 @@
-## Hello there 👋
+## Hello👋
 
-I am Juan and I'm computer engineering student, welcome to my github page :)<br>
+I am Juan Galvis and I'm computer engineering student, welcome to my github page. Here i store both my personal & some of my academic projects. :)<br>
 
 
 ## 🌐 Socials:
